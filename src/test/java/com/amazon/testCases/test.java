@@ -1,5 +1,5 @@
 puclic class Test
 {
-	//code
+	int a=20;
 	//code
 }
