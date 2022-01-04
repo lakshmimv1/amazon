@@ -1,0 +1,4 @@
+puclic class Test
+{
+	//code
+}
