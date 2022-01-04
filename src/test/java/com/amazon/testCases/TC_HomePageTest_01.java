@@ -8,6 +8,8 @@ import com.amazon.pageObjects.HomePage;
 
 public class TC_HomePageTest_01 extends BaseClass
 {
+
+	int a=10;
 //	@Test
 //	public void HomePageTest()
 //	{
